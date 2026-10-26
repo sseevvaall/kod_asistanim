@@ -1,0 +1,15 @@
+proje yazarı: şevval içgil
+# projenin adı: Kod-Asistan v0.1
+## projenin amacı:
+kullanıcılara günlük işlerinde (hesaplama, selamlaşma vb.) yardımcı olacak bir dijital asistan tasarlamak
+## projenin hedefleri:
+bu asistanın ilerleyen zamanlarda kazanacağı özellikler:
+-v1.0 akıllı menü
+-v2.0 veri saklama
+-v3.0 sesli komut
+## kritik eşik:
+kodun doğru çalışması için algoritma adımları belirlenir. girdi, işlem ve çıktı sırası oluşturulur. hatalar kontrol edilir ve kod test edilir
+## kaynakça:
+-bilişim teklonojileri ve yazılım ders kitabı
+-python programlama belgeleri
+-markdown kullanım kılavuzu
